@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="de84c6f2-02e5-47e4-8002-f824370cfd7b" name="webdev-ajaxnoir" url="http://webdev.cse.msu.edu/~vescheju/ajaxnoir">
+        <fileTransfer rootFolder="/user/vescheju/classweb/ajaxnoir" accessType="SFTP" host="arctic.cse.msu.edu" port="22" sshConfigId="da8d40f9-2bd9-4400-8efa-8a9eb6e06682" sshConfig="vescheju@arctic.cse.msu.edu:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
